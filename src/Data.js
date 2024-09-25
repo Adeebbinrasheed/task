@@ -3,6 +3,7 @@ import image1 from './assets/`wash.webp'
 import image2 from './assets/watch.jpeg'
 const data=[
     {
+        id:1,
         productimage:image,
         productname:"Curology Facewash",
         category:"Beauty",
@@ -13,6 +14,7 @@ const data=[
 
     },
     {
+        id:2,
         productimage:image1,
         productname:"BodyLotion",
         category:"Beauty",
@@ -23,6 +25,7 @@ const data=[
 
     },
     {
+        id:3,
         productimage:image2,
         productname:"SmartWatch",
         category:"Electronics",
@@ -33,6 +36,7 @@ const data=[
 
     },
     {
+        id:4,
         productimage:image2,
         productname:"Camera",
         category:"Electronics",
@@ -43,6 +47,7 @@ const data=[
 
     },
     {
+        id:5,
         productimage:image1,
         productname:"Games",
         category:"Electronics",
